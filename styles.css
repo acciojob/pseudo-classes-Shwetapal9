@@ -9,8 +9,9 @@ p:first-child{
 	background-color:black;
 	color:white;
 }
-p:last-child{
+p:nth-child(4n){
 	color:red;
+/* 	background-color:green; */
 }
 li:first-child{
 	background-color:white;
