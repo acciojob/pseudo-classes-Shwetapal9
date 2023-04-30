@@ -2,6 +2,9 @@
 body{
 	background-color: skyblue;
 }
+:root{
+	background-color:white;
+}
 p:first-child{
 	background-color:black;
 	color:white;
