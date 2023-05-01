@@ -2,12 +2,12 @@
 /* .*{
 	background-color:rgb(135, 206, 235);
 } */
-body{
+/* body{
 	background-color: rgb(135, 206, 235);
-}
-/* :root{
-	background-color:white;
 } */
+:root{
+	background-color:rgb(135, 206, 235);
+} 
 p:first-child{
 	background-color:black;
 	color:white;
